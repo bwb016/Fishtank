@@ -13,7 +13,7 @@
  + ==| X = (m(C1-C2))/(C1(1-OF))
  + ==| t = (FR)^-1 * (60*X)
  */
-int deadtime = 6000;
+int deadtime = 600;
 
 double C1=0; //Initial NaCl Concentration
 double C2=0; //Target NaCl Concentration
